@@ -13,7 +13,7 @@ class Skripsi{
         }
 
         public function turnWheel(){
-          $this->setSkripsi($this->getSkripsi() -1);
+          $this->setSkripsi($this->getSkripsi() -2);
         }
 }
 
